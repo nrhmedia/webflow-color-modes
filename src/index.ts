@@ -103,6 +103,7 @@ html.transition .fs-cc-banner_component,
 html.transition .announcement-banner_close,
 html.transition .matte-body,
 html.transition .sidebar,
+html.transition .matte-cover,
 html.transition .menu-icon * {
 transition: background-color ${transitionConfig.speed}ms,
 color ${transitionConfig.speed}ms,
