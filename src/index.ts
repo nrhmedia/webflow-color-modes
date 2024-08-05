@@ -105,6 +105,7 @@ html.transition .sidebar,
 html.transition .matte-body,
 html.transition .matte-cover,
 html.transition .matte-background,
+html.transition .video-banner_cover,
 html.transition .menu-icon * {
 transition: background-color ${transitionConfig.speed}ms,
 color ${transitionConfig.speed}ms,
